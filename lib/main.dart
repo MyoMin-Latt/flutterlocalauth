@@ -11,8 +11,8 @@ Future main() async {
     DeviceOrientation.portraitDown,
   ]);
 
-  // runApp(const MyApp());
-  runApp(const LocalAuthExamplePage());
+  runApp(const MyApp());
+  // runApp(const LocalAuthExamplePage());
 }
 
 class MyApp extends StatelessWidget {
